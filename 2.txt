@@ -1,0 +1,3 @@
+GitLab Inc. is a company that operates and develops GitLab, an open-core DevOps software package that can develop, secure, and operate software. GitLab includes a distributed version control system based on Git, including features such as access control, bug tracking, software feature requests, task management, and wikis for every project, as well as snippets.
+
+The open-source software project was created by Ukrainian developer Dmytro (or Dmitriy) Zaporozhets and Dutch developer Sytse Sijbrandij. In 2018, GitLab Inc. was considered to be the first partly Ukrainian unicorn. GitLab has an estimated over 30 million registered users, including 1 million active licensed users. There are more than 3,300 code contributors and team members in 60+ countries.
